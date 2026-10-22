@@ -1,0 +1,6 @@
+{
+  "name": "Rational Mind: Anti-Cocoklogi Therapy",
+  "description": "Aplikasi terapi klinis CBT untuk mengatasi kecemasan akibat ramalan zodiak dan astrologi dengan pendekatan sains kognitif dan logika rasional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
